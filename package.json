@@ -1,0 +1,16 @@
+{
+  "name": "asteria-hotel-app",
+  "version": "1.0.0",
+  "description": "Asteria Hotel — Beverage Room Service App",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
